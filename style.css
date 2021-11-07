@@ -12,3 +12,16 @@ section h3{
     background: no-repeat center/100% url("/pochta-deda-moroza.rf/icons/top-img2.jpg");
     min-height: 100px;
 }
+.carousel-caption {
+    color : black;
+}
+.carousel-indicators li{
+    background-color: grey;
+}
+
+.carousel-indicators .active{ 
+    background-color: black;
+}
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    background-color: grey;
+}
