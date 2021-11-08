@@ -5,11 +5,11 @@ section h3{
     color: red;
 }
 #stars1 {
-    background: no-repeat center/100% url("/pochta-deda-moroza.rf/icons/top-img1.jpg");
+    background: no-repeat center/100% url("http://xn-----6kcbbvahv3coiadzw8f.xn--p1ai/icons/top-img1.jpg");
     min-height: 100px;
 }
 #stars2 {
-    background: no-repeat center/100% url("/pochta-deda-moroza.rf/icons/top-img2.jpg");
+    background: no-repeat center/100% url("http://xn-----6kcbbvahv3coiadzw8f.xn--p1ai/icons/top-img2.jpg");
     min-height: 100px;
 }
 .carousel-caption {
